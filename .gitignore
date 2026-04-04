@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+config.json
+app.log
+.app.pid
+.claude/
+.DS_Store

@@ -1,0 +1,24 @@
+{
+  "distillMePath": "/path/to/distill-me",
+  "anthropic": {
+    "apiKey": "sk-your-anthropic-key",
+    "baseUrl": "https://api.anthropic.com",
+    "model": "claude-sonnet-4-20250514"
+  },
+  "dashscope": {
+    "apiKey": "sk-your-dashscope-key",
+    "ttsModel": "cosyvoice-v3-flash",
+    "voiceId": "longanyang"
+  },
+  "persona": {
+    "slug": "YourPersona",
+    "userId": "yourname"
+  },
+  "avatar": {
+    "type": "vrm",
+    "modelPath": "/path/to/model.vrm"
+  },
+  "subtitle": {
+    "fontSize": 28
+  }
+}
