@@ -6,3 +6,4 @@ app.log
 .app.pid
 .claude/
 .DS_Store
+promo/
